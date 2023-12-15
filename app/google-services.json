@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "230172503588",
+    "firebase_url": "https://libros-audibles-default-rtdb.firebaseio.com",
+    "project_id": "libros-audibles",
+    "storage_bucket": "libros-audibles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230172503588:android:96bcb0d089772d3ea232b1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEtUUYoGE4tCfMyrAV1ISjT4z8a2qeuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
